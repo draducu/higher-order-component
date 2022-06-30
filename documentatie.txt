@@ -1,0 +1,9 @@
+** React Higher Order Component 
+
+* Imi creez o componenta UsersList si in aceasta componenta voi face un API call si fetch lista de users. O sa folosesc un json placeholder care sa aduca fake API. Merg pe google si caut json placeholder... Am aici la /users un array de fake data. 
+
+* Acum imi import useEffect si useState pentru API call si voi fetchui lista de users din jsonplaceholder care imi va da un API cu nist edate pe care sa le cer.
+
+* O sa creez un userState pentru useri. 
+
+Folosim un API call sa luam datele, si vreau sa rulez asta o singura data, deci folosesc un useEffect cu un array gol pentru dependinte
